@@ -7,7 +7,7 @@
 
 - **Nombre completo**: Andres Sebastian Tulcanaza Vicente
 - **Carrera**: Ingenieria Informatica
-- **Fecha de entrega**: _____________________________
+- **Fecha de entrega**: 15 de Abril del 2026
 
 ---
 
