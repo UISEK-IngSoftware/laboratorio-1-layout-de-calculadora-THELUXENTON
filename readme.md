@@ -5,8 +5,8 @@
 
 **Completa la siguiente información antes de comenzar:**
 
-- **Nombre completo**: _____________________________
-- **Carrera**: _____________________________
+- **Nombre completo**: Andres Sebastian Tulcanaza Vicente
+- **Carrera**: Ingenieria Informatica
 - **Fecha de entrega**: _____________________________
 
 ---
